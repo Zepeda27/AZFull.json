@@ -1,0 +1,2615 @@
+{
+  "author" : {
+    "username" : "chepesign_13",
+    "id" : {
+      "namespace" : {
+        "rawValue" : 0
+      },
+      "id" : {
+        "rawValue" : 940806332
+      }
+    },
+    "photo" : [
+      {
+        "hasVideo" : false,
+        "resource" : {
+          "photoId" : 4040732428265957300,
+          "datacenterId" : 1,
+          "sizeSpec" : "small"
+        },
+        "dimensions" : {
+          "width" : 80,
+          "height" : 80
+        },
+        "progressiveSizes" : [
+
+        ],
+        "typeHint" : "generic",
+        "immediateThumbnailData" : {
+          "bytes" : [
+            1,
+            8,
+            8,
+            161,
+            242,
+            108,
+            234,
+            119,
+            125,
+            40,
+            162,
+            138,
+            161,
+            31
+          ],
+          "count" : 14,
+          "pointer" : {
+            "pointerValue" : 6125777336
+          }
+        },
+        "isPersonal" : false
+      },
+      {
+        "progressiveSizes" : [
+
+        ],
+        "hasVideo" : false,
+        "isPersonal" : false,
+        "resource" : {
+          "datacenterId" : 1,
+          "photoId" : 4040732428265957300,
+          "sizeSpec" : "fullSize"
+        },
+        "dimensions" : {
+          "width" : 640,
+          "height" : 640
+        },
+        "immediateThumbnailData" : {
+          "count" : 14,
+          "pointer" : {
+            "pointerValue" : 6125777336
+          },
+          "bytes" : [
+            1,
+            8,
+            8,
+            161,
+            242,
+            108,
+            234,
+            119,
+            125,
+            40,
+            162,
+            138,
+            161,
+            31
+          ]
+        },
+        "typeHint" : "generic"
+      }
+    ],
+    "usernames" : [
+
+    ],
+    "profileColor" : {
+      "other" : 12
+    },
+    "flags" : {
+      "rawValue" : 144
+    },
+    "accessHash" : {
+      "personal" : 5563284096315555922
+    },
+    "storiesHidden" : false,
+    "nameColor" : {
+      "other" : 19
+    },
+    "backgroundEmojiId" : 5355260752762518003,
+    "profileBackgroundEmojiId" : 5355260752762518003,
+    "firstName" : "ChepeSign",
+    "emojiStatus" : {
+      "fileId" : 5363926570836699898
+    },
+    "phone" : "18299097340"
+  },
+  "flags" : {
+    "rawValue" : 68
+  },
+  "associatedMedia" : {
+    "5:5260750418320836046" : {
+      "previewRepresentations" : [
+        {
+          "progressiveSizes" : [
+
+          ],
+          "resource" : {
+            "sizeSpec" : "m",
+            "datacenterId" : 2,
+            "accessHash" : 362605626182963314,
+            "documentId" : 5260750418320836046,
+            "fileReference" : {
+              "count" : 21,
+              "pointer" : {
+                "pointerValue" : 12886676448
+              },
+              "bytes" : [
+                0,
+                103,
+                11,
+                49,
+                110,
+                93,
+                45,
+                27,
+                16,
+                207,
+                184,
+                54,
+                216,
+                21,
+                17,
+                55,
+                240,
+                61,
+                67,
+                138,
+                5
+              ]
+            }
+          },
+          "dimensions" : {
+            "width" : 128,
+            "height" : 128
+          },
+          "typeHint" : "generic",
+          "hasVideo" : false,
+          "isPersonal" : false
+        }
+      ],
+      "mimeType" : "application/x-tgsticker",
+      "attributes" : [
+        {
+          "ImageSize" : {
+            "size" : {
+              "height" : 512,
+              "width" : 512
+            }
+          }
+        },
+        {
+          "CustomEmoji" : {
+            "isPremium" : true,
+            "isSingleColor" : false,
+            "packReference" : {
+              "id" : {
+                "id" : 3089780562001395745,
+                "accessHash" : 8683925044001931906
+              }
+            },
+            "alt" : "🚨"
+          }
+        },
+        {
+          "FileName" : {
+            "fileName" : "AnimatedSticker.tgs"
+          }
+        },
+        "hintIsValidated"
+      ],
+      "resource" : {
+        "datacenterId" : 2,
+        "fileId" : 5260750418320836046,
+        "fileReference" : {
+          "pointer" : {
+            "pointerValue" : 12886677152
+          },
+          "count" : 21,
+          "bytes" : [
+            0,
+            103,
+            11,
+            49,
+            110,
+            93,
+            45,
+            27,
+            16,
+            207,
+            184,
+            54,
+            216,
+            21,
+            17,
+            55,
+            240,
+            61,
+            67,
+            138,
+            5
+          ]
+        },
+        "accessHash" : 362605626182963314,
+        "fileName" : "AnimatedSticker.tgs",
+        "size" : 2335
+      },
+      "alternativeRepresentations" : [
+
+      ],
+      "peerIds" : [
+
+      ],
+      "size" : 2335,
+      "videoThumbnails" : [
+
+      ],
+      "immediateThumbnailData" : {
+        "pointer" : {
+          "pointerValue" : 5851025792
+        },
+        "count" : 214
+      },
+      "fileId" : {
+        "namespace" : 5,
+        "id" : 5260750418320836046
+      }
+    },
+    "5:5415795228718155562" : {
+      "peerIds" : [
+
+      ],
+      "previewRepresentations" : [
+        {
+          "dimensions" : {
+            "width" : 128,
+            "height" : 128
+          },
+          "resource" : {
+            "datacenterId" : 2,
+            "documentId" : 5415795228718155562,
+            "fileReference" : {
+              "count" : 21,
+              "pointer" : {
+                "pointerValue" : 12886685984
+              },
+              "bytes" : [
+                0,
+                103,
+                71,
+                140,
+                8,
+                222,
+                208,
+                242,
+                139,
+                119,
+                46,
+                239,
+                81,
+                137,
+                96,
+                119,
+                51,
+                203,
+                137,
+                240,
+                214
+              ]
+            },
+            "sizeSpec" : "m",
+            "accessHash" : 2735501246643823503
+          },
+          "hasVideo" : false,
+          "isPersonal" : false,
+          "typeHint" : "generic",
+          "progressiveSizes" : [
+
+          ]
+        }
+      ],
+      "fileId" : {
+        "id" : 5415795228718155562,
+        "namespace" : 5
+      },
+      "attributes" : [
+        {
+          "ImageSize" : {
+            "size" : {
+              "width" : 512,
+              "height" : 512
+            }
+          }
+        },
+        {
+          "CustomEmoji" : {
+            "isPremium" : true,
+            "alt" : "⚡️",
+            "isSingleColor" : false,
+            "packReference" : {
+              "id" : {
+                "accessHash" : -1529458693675806266,
+                "id" : 2212692203719884920
+              }
+            }
+          }
+        },
+        {
+          "FileName" : {
+            "fileName" : "AnimatedSticker.tgs"
+          }
+        },
+        "hintIsValidated"
+      ],
+      "videoThumbnails" : [
+
+      ],
+      "immediateThumbnailData" : {
+        "bytes" : [
+          26,
+          0,
+          161,
+          3,
+          220,
+          126,
+          73,
+          78,
+          1,
+          140,
+          84,
+          0,
+          66,
+          70,
+          9,
+          79,
+          72,
+          0,
+          75,
+          9,
+          81,
+          79,
+          0,
+          164,
+          82,
+          139,
+          1,
+          72,
+          143,
+          3,
+          72,
+          136,
+          1,
+          128,
+          144,
+          5,
+          69,
+          152,
+          7,
+          129,
+          135,
+          5,
+          133,
+          137,
+          4,
+          139,
+          7,
+          158,
+          143,
+          1,
+          100,
+          147,
+          80,
+          7,
+          136,
+          85,
+          3,
+          136
+        ],
+        "count" : 58,
+        "pointer" : {
+          "pointerValue" : 13192800896
+        }
+      },
+      "mimeType" : "application/x-tgsticker",
+      "alternativeRepresentations" : [
+
+      ],
+      "size" : 3410,
+      "resource" : {
+        "fileName" : "AnimatedSticker.tgs",
+        "datacenterId" : 2,
+        "fileReference" : {
+          "pointer" : {
+            "pointerValue" : 12886684544
+          },
+          "bytes" : [
+            0,
+            103,
+            71,
+            140,
+            8,
+            222,
+            208,
+            242,
+            139,
+            119,
+            46,
+            239,
+            81,
+            137,
+            96,
+            119,
+            51,
+            203,
+            137,
+            240,
+            214
+          ],
+          "count" : 21
+        },
+        "size" : 3410,
+        "fileId" : 5415795228718155562,
+        "accessHash" : 2735501246643823503
+      }
+    },
+    "5:5210956306952758910" : {
+      "alternativeRepresentations" : [
+
+      ],
+      "peerIds" : [
+
+      ],
+      "fileId" : {
+        "namespace" : 5,
+        "id" : 5210956306952758910
+      },
+      "resource" : {
+        "fileId" : 5210956306952758910,
+        "datacenterId" : 2,
+        "fileName" : "AnimatedSticker.tgs",
+        "fileReference" : {
+          "pointer" : {
+            "pointerValue" : 12886686336
+          },
+          "count" : 21,
+          "bytes" : [
+            0,
+            103,
+            11,
+            49,
+            113,
+            90,
+            170,
+            151,
+            131,
+            76,
+            91,
+            57,
+            107,
+            26,
+            124,
+            219,
+            107,
+            67,
+            223,
+            39,
+            238
+          ]
+        },
+        "accessHash" : -3037197277739549655,
+        "size" : 2757
+      },
+      "attributes" : [
+        {
+          "ImageSize" : {
+            "size" : {
+              "width" : 512,
+              "height" : 512
+            }
+          }
+        },
+        {
+          "CustomEmoji" : {
+            "isPremium" : true,
+            "packReference" : {
+              "id" : {
+                "accessHash" : -5478764272704740602,
+                "id" : 1269403972611866648
+              }
+            },
+            "alt" : "👀",
+            "isSingleColor" : false
+          }
+        },
+        {
+          "FileName" : {
+            "fileName" : "AnimatedSticker.tgs"
+          }
+        },
+        "hintIsValidated"
+      ],
+      "videoThumbnails" : [
+
+      ],
+      "previewRepresentations" : [
+        {
+          "hasVideo" : false,
+          "isPersonal" : false,
+          "typeHint" : "generic",
+          "progressiveSizes" : [
+
+          ],
+          "dimensions" : {
+            "height" : 128,
+            "width" : 128
+          },
+          "resource" : {
+            "documentId" : 5210956306952758910,
+            "accessHash" : -3037197277739549655,
+            "sizeSpec" : "m",
+            "fileReference" : {
+              "bytes" : [
+                0,
+                103,
+                11,
+                49,
+                113,
+                90,
+                170,
+                151,
+                131,
+                76,
+                91,
+                57,
+                107,
+                26,
+                124,
+                219,
+                107,
+                67,
+                223,
+                39,
+                238
+              ],
+              "count" : 21,
+              "pointer" : {
+                "pointerValue" : 12886679360
+              }
+            },
+            "datacenterId" : 2
+          }
+        }
+      ],
+      "mimeType" : "application/x-tgsticker",
+      "immediateThumbnailData" : {
+        "pointer" : {
+          "pointerValue" : 12943568928
+        },
+        "count" : 116
+      },
+      "size" : 2757
+    },
+    "5:5366417845141910647" : {
+      "alternativeRepresentations" : [
+
+      ],
+      "immediateThumbnailData" : {
+        "count" : 91,
+        "pointer" : {
+          "pointerValue" : 12928419328
+        }
+      },
+      "mimeType" : "application/x-tgsticker",
+      "size" : 11421,
+      "peerIds" : [
+
+      ],
+      "fileId" : {
+        "namespace" : 5,
+        "id" : 5366417845141910647
+      },
+      "attributes" : [
+        {
+          "ImageSize" : {
+            "size" : {
+              "width" : 512,
+              "height" : 512
+            }
+          }
+        },
+        {
+          "CustomEmoji" : {
+            "isSingleColor" : false,
+            "packReference" : {
+              "id" : {
+                "accessHash" : -1529458693675806266,
+                "id" : 2212692203719884920
+              }
+            },
+            "alt" : "⚡️",
+            "isPremium" : true
+          }
+        },
+        {
+          "FileName" : {
+            "fileName" : "AnimatedSticker.tgs"
+          }
+        },
+        "hintIsValidated"
+      ],
+      "resource" : {
+        "accessHash" : 1092353977287091031,
+        "size" : 11421,
+        "fileReference" : {
+          "pointer" : {
+            "pointerValue" : 12886675552
+          },
+          "count" : 21,
+          "bytes" : [
+            0,
+            103,
+            71,
+            140,
+            8,
+            247,
+            34,
+            173,
+            38,
+            17,
+            71,
+            26,
+            46,
+            174,
+            219,
+            3,
+            189,
+            106,
+            185,
+            7,
+            183
+          ]
+        },
+        "fileId" : 5366417845141910647,
+        "fileName" : "AnimatedSticker.tgs",
+        "datacenterId" : 2
+      },
+      "videoThumbnails" : [
+
+      ],
+      "previewRepresentations" : [
+        {
+          "progressiveSizes" : [
+
+          ],
+          "hasVideo" : false,
+          "resource" : {
+            "documentId" : 5366417845141910647,
+            "datacenterId" : 2,
+            "accessHash" : 1092353977287091031,
+            "fileReference" : {
+              "bytes" : [
+                0,
+                103,
+                71,
+                140,
+                8,
+                247,
+                34,
+                173,
+                38,
+                17,
+                71,
+                26,
+                46,
+                174,
+                219,
+                3,
+                189,
+                106,
+                185,
+                7,
+                183
+              ],
+              "pointer" : {
+                "pointerValue" : 12886676736
+              },
+              "count" : 21
+            },
+            "sizeSpec" : "m"
+          },
+          "dimensions" : {
+            "width" : 128,
+            "height" : 128
+          },
+          "isPersonal" : false,
+          "typeHint" : "generic"
+        }
+      ]
+    },
+    "5:5456140674028019486" : {
+      "previewRepresentations" : [
+        {
+          "progressiveSizes" : [
+
+          ],
+          "dimensions" : {
+            "width" : 128,
+            "height" : 128
+          },
+          "resource" : {
+            "documentId" : 5456140674028019486,
+            "datacenterId" : 2,
+            "accessHash" : -4570011136970856287,
+            "fileReference" : {
+              "bytes" : [
+                0,
+                103,
+                12,
+                106,
+                110,
+                10,
+                110,
+                163,
+                90,
+                95,
+                128,
+                139,
+                168,
+                139,
+                228,
+                197,
+                233,
+                156,
+                38,
+                66,
+                170
+              ],
+              "count" : 21,
+              "pointer" : {
+                "pointerValue" : 12886681568
+              }
+            },
+            "sizeSpec" : "m"
+          },
+          "hasVideo" : false,
+          "isPersonal" : false,
+          "typeHint" : "generic"
+        }
+      ],
+      "peerIds" : [
+
+      ],
+      "fileId" : {
+        "id" : 5456140674028019486,
+        "namespace" : 5
+      },
+      "videoThumbnails" : [
+
+      ],
+      "immediateThumbnailData" : {
+        "pointer" : {
+          "pointerValue" : 13004216688
+        },
+        "count" : 135
+      },
+      "mimeType" : "application/x-tgsticker",
+      "size" : 4759,
+      "alternativeRepresentations" : [
+
+      ],
+      "resource" : {
+        "fileName" : "AnimatedSticker.tgs",
+        "size" : 4759,
+        "accessHash" : -4570011136970856287,
+        "datacenterId" : 2,
+        "fileReference" : {
+          "pointer" : {
+            "pointerValue" : 12886684896
+          },
+          "bytes" : [
+            0,
+            103,
+            12,
+            106,
+            110,
+            10,
+            110,
+            163,
+            90,
+            95,
+            128,
+            139,
+            168,
+            139,
+            228,
+            197,
+            233,
+            156,
+            38,
+            66,
+            170
+          ],
+          "count" : 21
+        },
+        "fileId" : 5456140674028019486
+      },
+      "attributes" : [
+        {
+          "ImageSize" : {
+            "size" : {
+              "width" : 512,
+              "height" : 512
+            }
+          }
+        },
+        {
+          "CustomEmoji" : {
+            "isSingleColor" : false,
+            "isPremium" : true,
+            "alt" : "⚡️",
+            "packReference" : {
+              "id" : {
+                "id" : 1269403972611866648,
+                "accessHash" : -5478764272704740602
+              }
+            }
+          }
+        },
+        {
+          "FileName" : {
+            "fileName" : "AnimatedSticker.tgs"
+          }
+        },
+        "hintIsValidated"
+      ]
+    },
+    "5:5449875686837726134" : {
+      "immediateThumbnailData" : {
+        "count" : 158,
+        "pointer" : {
+          "pointerValue" : 13083781904
+        }
+      },
+      "previewRepresentations" : [
+        {
+          "dimensions" : {
+            "width" : 128,
+            "height" : 128
+          },
+          "resource" : {
+            "documentId" : 5449875686837726134,
+            "fileReference" : {
+              "bytes" : [
+                0,
+                103,
+                71,
+                140,
+                8,
+                35,
+                0,
+                111,
+                24,
+                214,
+                203,
+                155,
+                21,
+                184,
+                156,
+                81,
+                217,
+                138,
+                159,
+                178,
+                227
+              ],
+              "pointer" : {
+                "pointerValue" : 12886682592
+              },
+              "count" : 21
+            },
+            "sizeSpec" : "m",
+            "datacenterId" : 2,
+            "accessHash" : 2713872352157655877
+          },
+          "isPersonal" : false,
+          "hasVideo" : false,
+          "progressiveSizes" : [
+
+          ],
+          "typeHint" : "generic"
+        }
+      ],
+      "size" : 45708,
+      "fileId" : {
+        "namespace" : 5,
+        "id" : 5449875686837726134
+      },
+      "mimeType" : "application/x-tgsticker",
+      "resource" : {
+        "accessHash" : 2713872352157655877,
+        "fileReference" : {
+          "bytes" : [
+            0,
+            103,
+            71,
+            140,
+            8,
+            35,
+            0,
+            111,
+            24,
+            214,
+            203,
+            155,
+            21,
+            184,
+            156,
+            81,
+            217,
+            138,
+            159,
+            178,
+            227
+          ],
+          "count" : 21,
+          "pointer" : {
+            "pointerValue" : 12886685568
+          }
+        },
+        "size" : 45708,
+        "fileName" : "AnimatedSticker.tgs",
+        "datacenterId" : 2,
+        "fileId" : 5449875686837726134
+      },
+      "videoThumbnails" : [
+
+      ],
+      "attributes" : [
+        {
+          "ImageSize" : {
+            "size" : {
+              "width" : 512,
+              "height" : 512
+            }
+          }
+        },
+        {
+          "CustomEmoji" : {
+            "packReference" : {
+              "id" : {
+                "accessHash" : -5478764272704740602,
+                "id" : 1269403972611866648
+              }
+            },
+            "isPremium" : true,
+            "alt" : "👎",
+            "isSingleColor" : false
+          }
+        },
+        {
+          "FileName" : {
+            "fileName" : "AnimatedSticker.tgs"
+          }
+        },
+        "hintIsValidated"
+      ],
+      "alternativeRepresentations" : [
+
+      ],
+      "peerIds" : [
+
+      ]
+    },
+    "5:5382357040008021292" : {
+      "fileId" : {
+        "id" : 5382357040008021292,
+        "namespace" : 5
+      },
+      "size" : 3006,
+      "attributes" : [
+        {
+          "ImageSize" : {
+            "size" : {
+              "width" : 512,
+              "height" : 512
+            }
+          }
+        },
+        {
+          "CustomEmoji" : {
+            "isSingleColor" : false,
+            "packReference" : {
+              "id" : {
+                "id" : 1269403972611866648,
+                "accessHash" : -5478764272704740602
+              }
+            },
+            "isPremium" : true,
+            "alt" : "🆕"
+          }
+        },
+        {
+          "FileName" : {
+            "fileName" : "AnimatedSticker.tgs"
+          }
+        },
+        "hintIsValidated"
+      ],
+      "previewRepresentations" : [
+        {
+          "isPersonal" : false,
+          "dimensions" : {
+            "width" : 128,
+            "height" : 128
+          },
+          "progressiveSizes" : [
+
+          ],
+          "resource" : {
+            "fileReference" : {
+              "count" : 21,
+              "bytes" : [
+                0,
+                103,
+                9,
+                245,
+                90,
+                78,
+                168,
+                111,
+                148,
+                14,
+                59,
+                102,
+                206,
+                52,
+                177,
+                79,
+                160,
+                158,
+                64,
+                33,
+                37
+              ],
+              "pointer" : {
+                "pointerValue" : 12886680224
+              }
+            },
+            "accessHash" : 3594455018845661400,
+            "documentId" : 5382357040008021292,
+            "datacenterId" : 2,
+            "sizeSpec" : "m"
+          },
+          "typeHint" : "generic",
+          "hasVideo" : false
+        }
+      ],
+      "videoThumbnails" : [
+
+      ],
+      "immediateThumbnailData" : {
+        "pointer" : {
+          "pointerValue" : 12946324224
+        },
+        "count" : 194
+      },
+      "resource" : {
+        "fileId" : 5382357040008021292,
+        "accessHash" : 3594455018845661400,
+        "fileReference" : {
+          "pointer" : {
+            "pointerValue" : 12886671584
+          },
+          "count" : 21,
+          "bytes" : [
+            0,
+            103,
+            9,
+            245,
+            90,
+            78,
+            168,
+            111,
+            148,
+            14,
+            59,
+            102,
+            206,
+            52,
+            177,
+            79,
+            160,
+            158,
+            64,
+            33,
+            37
+          ]
+        },
+        "fileName" : "AnimatedSticker.tgs",
+        "datacenterId" : 2,
+        "size" : 3006
+      },
+      "mimeType" : "application/x-tgsticker",
+      "alternativeRepresentations" : [
+
+      ],
+      "peerIds" : [
+
+      ]
+    },
+    "5:5395444514028529554" : {
+      "peerIds" : [
+
+      ],
+      "mimeType" : "application/x-tgsticker",
+      "fileId" : {
+        "namespace" : 5,
+        "id" : 5395444514028529554
+      },
+      "resource" : {
+        "fileId" : 5395444514028529554,
+        "accessHash" : 7757416717438784433,
+        "datacenterId" : 2,
+        "fileReference" : {
+          "bytes" : [
+            0,
+            103,
+            61,
+            105,
+            255,
+            80,
+            178,
+            232,
+            88,
+            65,
+            209,
+            205,
+            118,
+            255,
+            187,
+            17,
+            247,
+            170,
+            237,
+            236,
+            82
+          ],
+          "count" : 21,
+          "pointer" : {
+            "pointerValue" : 12886676672
+          }
+        },
+        "size" : 8640,
+        "fileName" : "AnimatedSticker.tgs"
+      },
+      "previewRepresentations" : [
+        {
+          "dimensions" : {
+            "width" : 128,
+            "height" : 128
+          },
+          "isPersonal" : false,
+          "typeHint" : "generic",
+          "progressiveSizes" : [
+
+          ],
+          "resource" : {
+            "fileReference" : {
+              "pointer" : {
+                "pointerValue" : 12886681376
+              },
+              "bytes" : [
+                0,
+                103,
+                61,
+                105,
+                255,
+                80,
+                178,
+                232,
+                88,
+                65,
+                209,
+                205,
+                118,
+                255,
+                187,
+                17,
+                247,
+                170,
+                237,
+                236,
+                82
+              ],
+              "count" : 21
+            },
+            "sizeSpec" : "m",
+            "accessHash" : 7757416717438784433,
+            "documentId" : 5395444514028529554,
+            "datacenterId" : 2
+          },
+          "hasVideo" : false
+        }
+      ],
+      "immediateThumbnailData" : {
+        "pointer" : {
+          "pointerValue" : 5851025152
+        },
+        "count" : 246
+      },
+      "attributes" : [
+        {
+          "ImageSize" : {
+            "size" : {
+              "height" : 512,
+              "width" : 512
+            }
+          }
+        },
+        {
+          "CustomEmoji" : {
+            "alt" : "🫦",
+            "isSingleColor" : false,
+            "packReference" : {
+              "id" : {
+                "accessHash" : -5478764272704740602,
+                "id" : 1269403972611866648
+              }
+            },
+            "isPremium" : true
+          }
+        },
+        {
+          "FileName" : {
+            "fileName" : "AnimatedSticker.tgs"
+          }
+        },
+        "hintIsValidated"
+      ],
+      "alternativeRepresentations" : [
+
+      ],
+      "videoThumbnails" : [
+
+      ],
+      "size" : 8640
+    },
+    "5:5431609822288033666" : {
+      "peerIds" : [
+
+      ],
+      "immediateThumbnailData" : {
+        "pointer" : {
+          "pointerValue" : 5851029312
+        },
+        "count" : 241
+      },
+      "videoThumbnails" : [
+
+      ],
+      "resource" : {
+        "fileId" : 5431609822288033666,
+        "fileName" : "AnimatedSticker.tgs",
+        "accessHash" : -5314169278232703814,
+        "datacenterId" : 2,
+        "size" : 5282,
+        "fileReference" : {
+          "pointer" : {
+            "pointerValue" : 12886686752
+          },
+          "bytes" : [
+            0,
+            103,
+            71,
+            140,
+            8,
+            129,
+            186,
+            237,
+            23,
+            17,
+            63,
+            252,
+            192,
+            242,
+            101,
+            210,
+            171,
+            14,
+            197,
+            141,
+            205
+          ],
+          "count" : 21
+        }
+      },
+      "size" : 5282,
+      "fileId" : {
+        "namespace" : 5,
+        "id" : 5431609822288033666
+      },
+      "attributes" : [
+        {
+          "ImageSize" : {
+            "size" : {
+              "height" : 512,
+              "width" : 512
+            }
+          }
+        },
+        {
+          "CustomEmoji" : {
+            "isSingleColor" : false,
+            "packReference" : {
+              "id" : {
+                "id" : 1269403972611866648,
+                "accessHash" : -5478764272704740602
+              }
+            },
+            "alt" : "🤫",
+            "isPremium" : true
+          }
+        },
+        {
+          "FileName" : {
+            "fileName" : "AnimatedSticker.tgs"
+          }
+        },
+        "hintIsValidated"
+      ],
+      "previewRepresentations" : [
+        {
+          "hasVideo" : false,
+          "isPersonal" : false,
+          "typeHint" : "generic",
+          "resource" : {
+            "accessHash" : -5314169278232703814,
+            "documentId" : 5431609822288033666,
+            "sizeSpec" : "m",
+            "fileReference" : {
+              "pointer" : {
+                "pointerValue" : 12886672832
+              },
+              "count" : 21,
+              "bytes" : [
+                0,
+                103,
+                71,
+                140,
+                8,
+                129,
+                186,
+                237,
+                23,
+                17,
+                63,
+                252,
+                192,
+                242,
+                101,
+                210,
+                171,
+                14,
+                197,
+                141,
+                205
+              ]
+            },
+            "datacenterId" : 2
+          },
+          "dimensions" : {
+            "height" : 128,
+            "width" : 128
+          },
+          "progressiveSizes" : [
+
+          ]
+        }
+      ],
+      "alternativeRepresentations" : [
+
+      ],
+      "mimeType" : "application/x-tgsticker"
+    },
+    "5:5276032951342088188" : {
+      "mimeType" : "application/x-tgsticker",
+      "size" : 11809,
+      "attributes" : [
+        {
+          "ImageSize" : {
+            "size" : {
+              "height" : 512,
+              "width" : 512
+            }
+          }
+        },
+        {
+          "CustomEmoji" : {
+            "packReference" : {
+              "id" : {
+                "id" : 1269403972611866648,
+                "accessHash" : -5478764272704740602
+              }
+            },
+            "isPremium" : true,
+            "isSingleColor" : false,
+            "alt" : "💥"
+          }
+        },
+        {
+          "FileName" : {
+            "fileName" : "AnimatedSticker.tgs"
+          }
+        },
+        "hintIsValidated"
+      ],
+      "previewRepresentations" : [
+        {
+          "isPersonal" : false,
+          "resource" : {
+            "accessHash" : -861004187533117646,
+            "datacenterId" : 2,
+            "documentId" : 5276032951342088188,
+            "sizeSpec" : "m",
+            "fileReference" : {
+              "pointer" : {
+                "pointerValue" : 12886678080
+              },
+              "bytes" : [
+                0,
+                103,
+                12,
+                106,
+                110,
+                112,
+                76,
+                204,
+                248,
+                185,
+                98,
+                65,
+                6,
+                102,
+                150,
+                136,
+                156,
+                27,
+                129,
+                176,
+                250
+              ],
+              "count" : 21
+            }
+          },
+          "dimensions" : {
+            "width" : 128,
+            "height" : 128
+          },
+          "hasVideo" : false,
+          "typeHint" : "generic",
+          "progressiveSizes" : [
+
+          ]
+        }
+      ],
+      "peerIds" : [
+
+      ],
+      "videoThumbnails" : [
+
+      ],
+      "resource" : {
+        "fileReference" : {
+          "count" : 21,
+          "bytes" : [
+            0,
+            103,
+            12,
+            106,
+            110,
+            112,
+            76,
+            204,
+            248,
+            185,
+            98,
+            65,
+            6,
+            102,
+            150,
+            136,
+            156,
+            27,
+            129,
+            176,
+            250
+          ],
+          "pointer" : {
+            "pointerValue" : 12886687360
+          }
+        },
+        "datacenterId" : 2,
+        "fileId" : 5276032951342088188,
+        "fileName" : "AnimatedSticker.tgs",
+        "accessHash" : -861004187533117646,
+        "size" : 11809
+      },
+      "alternativeRepresentations" : [
+
+      ],
+      "fileId" : {
+        "namespace" : 5,
+        "id" : 5276032951342088188
+      },
+      "immediateThumbnailData" : {
+        "count" : 220,
+        "pointer" : {
+          "pointerValue" : 5851030912
+        }
+      }
+    },
+    "5:5264919878082509254" : {
+      "alternativeRepresentations" : [
+
+      ],
+      "fileId" : {
+        "namespace" : 5,
+        "id" : 5264919878082509254
+      },
+      "resource" : {
+        "accessHash" : -4823393349158350004,
+        "fileName" : "AnimatedSticker.tgs",
+        "fileId" : 5264919878082509254,
+        "datacenterId" : 2,
+        "size" : 2864,
+        "fileReference" : {
+          "count" : 21,
+          "pointer" : {
+            "pointerValue" : 12886672480
+          },
+          "bytes" : [
+            0,
+            103,
+            35,
+            203,
+            215,
+            231,
+            87,
+            158,
+            66,
+            76,
+            225,
+            49,
+            76,
+            211,
+            230,
+            141,
+            82,
+            12,
+            255,
+            65,
+            147
+          ]
+        }
+      },
+      "mimeType" : "application/x-tgsticker",
+      "size" : 2864,
+      "previewRepresentations" : [
+        {
+          "hasVideo" : false,
+          "resource" : {
+            "accessHash" : -4823393349158350004,
+            "sizeSpec" : "m",
+            "fileReference" : {
+              "pointer" : {
+                "pointerValue" : 12886686976
+              },
+              "bytes" : [
+                0,
+                103,
+                35,
+                203,
+                215,
+                231,
+                87,
+                158,
+                66,
+                76,
+                225,
+                49,
+                76,
+                211,
+                230,
+                141,
+                82,
+                12,
+                255,
+                65,
+                147
+              ],
+              "count" : 21
+            },
+            "datacenterId" : 2,
+            "documentId" : 5264919878082509254
+          },
+          "dimensions" : {
+            "width" : 128,
+            "height" : 128
+          },
+          "progressiveSizes" : [
+
+          ],
+          "isPersonal" : false,
+          "typeHint" : "generic"
+        }
+      ],
+      "immediateThumbnailData" : {
+        "pointer" : {
+          "pointerValue" : 12939596000
+        },
+        "count" : 113
+      },
+      "peerIds" : [
+
+      ],
+      "attributes" : [
+        {
+          "ImageSize" : {
+            "size" : {
+              "height" : 512,
+              "width" : 512
+            }
+          }
+        },
+        {
+          "CustomEmoji" : {
+            "isSingleColor" : false,
+            "alt" : "▶️",
+            "isPremium" : true,
+            "packReference" : {
+              "id" : {
+                "accessHash" : -5478764272704740602,
+                "id" : 1269403972611866648
+              }
+            }
+          }
+        },
+        {
+          "FileName" : {
+            "fileName" : "AnimatedSticker.tgs"
+          }
+        },
+        "hintIsValidated"
+      ],
+      "videoThumbnails" : [
+
+      ]
+    }
+  },
+  "timestamp" : 1732742152,
+  "stableId" : 159756,
+  "tags" : {
+    "rawValue" : 2
+  },
+  "text" : "WHATSAPP (BETA) De TestFlight v24.24.10.78TF⚡️\n\n👀Compatible Con IPAD👀 \n\nContiene 🚨\nWatusi a v1.2.48🆕\nOnlineNotify  v3.4.11⚡️\nStalky v4.1.33🫦\nContactSync v1.1.8🤫\nRestore Chat\nNuevo tweak▶️\nEnable Location Spoofing👎\nEnvia ubicaciones falsa\nWa Ignore Call💥\nPara usuario de certificado\n\nLos ajustes de Stalky, OnlineNotify y ContactSync están deshabilitados de forma predeterminada y se pueden habilitar desde la configuración de Watusi.\n\nHecho por @chepesign_13⚡️",
+  "attributes" : [
+    {
+      "isQuote" : false,
+      "threadMessageId" : {
+        "namespace" : 0,
+        "id" : 692,
+        "peerId" : {
+          "id" : {
+            "rawValue" : 1540269592
+          },
+          "namespace" : {
+            "rawValue" : 2
+          }
+        }
+      },
+      "messageId" : {
+        "id" : 692,
+        "peerId" : {
+          "id" : {
+            "rawValue" : 1540269592
+          },
+          "namespace" : {
+            "rawValue" : 2
+          }
+        },
+        "namespace" : 0
+      }
+    },
+    {
+      "count" : 1,
+      "associatedMessageIds" : [
+
+      ]
+    },
+    {
+      "isHidden" : true,
+      "date" : 1732749154
+    },
+    {
+      "entities" : [
+        {
+          "range" : {
+            "lowerBound" : 44,
+            "upperBound" : 46
+          },
+          "type" : {
+            "CustomEmoji" : {
+              "fileId" : 5366417845141910647
+            }
+          }
+        },
+        {
+          "range" : {
+            "upperBound" : 50,
+            "lowerBound" : 48
+          },
+          "type" : {
+            "CustomEmoji" : {
+              "fileId" : 5210956306952758910
+            }
+          }
+        },
+        {
+          "type" : {
+            "CustomEmoji" : {
+              "fileId" : 5210956306952758910
+            }
+          },
+          "range" : {
+            "lowerBound" : 69,
+            "upperBound" : 71
+          }
+        },
+        {
+          "range" : {
+            "lowerBound" : 83,
+            "upperBound" : 85
+          },
+          "type" : {
+            "CustomEmoji" : {
+              "fileId" : 5260750418320836046
+            }
+          }
+        },
+        {
+          "range" : {
+            "upperBound" : 104,
+            "lowerBound" : 102
+          },
+          "type" : {
+            "CustomEmoji" : {
+              "fileId" : 5382357040008021292
+            }
+          }
+        },
+        {
+          "range" : {
+            "upperBound" : 128,
+            "lowerBound" : 126
+          },
+          "type" : {
+            "CustomEmoji" : {
+              "fileId" : 5456140674028019486
+            }
+          }
+        },
+        {
+          "type" : {
+            "CustomEmoji" : {
+              "fileId" : 5395444514028529554
+            }
+          },
+          "range" : {
+            "upperBound" : 145,
+            "lowerBound" : 143
+          }
+        },
+        {
+          "type" : {
+            "CustomEmoji" : {
+              "fileId" : 5431609822288033666
+            }
+          },
+          "range" : {
+            "lowerBound" : 164,
+            "upperBound" : 166
+          }
+        },
+        {
+          "type" : {
+            "CustomEmoji" : {
+              "fileId" : 5264919878082509254
+            }
+          },
+          "range" : {
+            "lowerBound" : 191,
+            "upperBound" : 193
+          }
+        },
+        {
+          "type" : {
+            "CustomEmoji" : {
+              "fileId" : 5449875686837726134
+            }
+          },
+          "range" : {
+            "upperBound" : 220,
+            "lowerBound" : 218
+          }
+        },
+        {
+          "type" : {
+            "CustomEmoji" : {
+              "fileId" : 5276032951342088188
+            }
+          },
+          "range" : {
+            "upperBound" : 261,
+            "lowerBound" : 259
+          }
+        },
+        {
+          "range" : {
+            "lowerBound" : 453,
+            "upperBound" : 466
+          },
+          "type" : "Mention"
+        },
+        {
+          "type" : {
+            "CustomEmoji" : {
+              "fileId" : 5415795228718155562
+            }
+          },
+          "range" : {
+            "upperBound" : 468,
+            "lowerBound" : 466
+          }
+        }
+      ]
+    },
+    {
+      "isTags" : false,
+      "canViewList" : true,
+      "recentPeers" : [
+        {
+          "isLarge" : false,
+          "isMy" : false,
+          "value" : {
+            "builtin" : "👍"
+          },
+          "isUnseen" : false,
+          "peerId" : {
+            "namespace" : {
+              "rawValue" : 0
+            },
+            "id" : {
+              "rawValue" : 379350324
+            }
+          },
+          "timestamp" : 1732750349
+        }
+      ],
+      "reactions" : [
+        {
+          "count" : 1,
+          "value" : {
+            "builtin" : "👍"
+          }
+        }
+      ],
+      "topPeers" : [
+
+      ]
+    },
+    {
+      "pts" : 2764
+    }
+  ],
+  "media" : [
+    {
+      "fileId" : {
+        "namespace" : 5,
+        "id" : 5926858369431248451
+      },
+      "attributes" : [
+        {
+          "FileName" : {
+            "fileName" : "WhatsApp Beta v24.24.10.78TF CHEPESign.ipa"
+          }
+        },
+        "hintIsValidated"
+      ],
+      "previewRepresentations" : [
+        {
+          "dimensions" : {
+            "height" : 320,
+            "width" : 320
+          },
+          "progressiveSizes" : [
+
+          ],
+          "resource" : {
+            "accessHash" : -2849905268029414467,
+            "fileReference" : {
+              "pointer" : {
+                "pointerValue" : 12886684832
+              },
+              "bytes" : [
+                2,
+                91,
+                206,
+                166,
+                24,
+                0,
+                0,
+                7,
+                28,
+                103,
+                71,
+                167,
+                98,
+                25,
+                120,
+                147,
+                244,
+                102,
+                104,
+                46,
+                156,
+                68,
+                25,
+                164,
+                94,
+                99,
+                73,
+                28,
+                165
+              ],
+              "count" : 29
+            },
+            "sizeSpec" : "m",
+            "documentId" : 5926858369431248451,
+            "datacenterId" : 4
+          },
+          "isPersonal" : false,
+          "hasVideo" : false,
+          "typeHint" : "generic"
+        }
+      ],
+      "videoThumbnails" : [
+
+      ],
+      "size" : 110598267,
+      "immediateThumbnailData" : {
+        "count" : 200,
+        "pointer" : {
+          "pointerValue" : 12946312960
+        }
+      },
+      "alternativeRepresentations" : [
+
+      ],
+      "mimeType" : "application/zip",
+      "resource" : {
+        "size" : 110598267,
+        "fileName" : "WhatsApp Beta v24.24.10.78TF CHEPESign.ipa",
+        "datacenterId" : 4,
+        "fileId" : 5926858369431248451,
+        "accessHash" : -2849905268029414467,
+        "fileReference" : {
+          "count" : 29,
+          "pointer" : {
+            "pointerValue" : 12886680384
+          },
+          "bytes" : [
+            2,
+            91,
+            206,
+            166,
+            24,
+            0,
+            0,
+            7,
+            28,
+            103,
+            71,
+            167,
+            98,
+            25,
+            120,
+            147,
+            244,
+            102,
+            104,
+            46,
+            156,
+            68,
+            25,
+            164,
+            94,
+            99,
+            73,
+            28,
+            165
+          ]
+        }
+      },
+      "peerIds" : [
+
+      ]
+    }
+  ],
+  "threadId" : 692,
+  "peers" : {
+    "items" : [
+      {
+        ".0" : {
+          "namespace" : {
+            "rawValue" : 2
+          },
+          "id" : {
+            "rawValue" : 1540269592
+          }
+        },
+        ".1" : {
+          "id" : {
+            "namespace" : {
+              "rawValue" : 2
+            },
+            "id" : {
+              "rawValue" : 1540269592
+            }
+          },
+          "adminRights" : {
+            "rights" : {
+              "rawValue" : 125113
+            }
+          },
+          "info" : {
+            "group" : {
+              "flags" : {
+                "rawValue" : 0
+              }
+            }
+          },
+          "storiesHidden" : false,
+          "flags" : {
+            "rawValue" : 2048
+          },
+          "title" : "CHEPESign || IPAs ",
+          "accessHash" : {
+            "personal" : -1806500660471721712
+          },
+          "defaultBannedRights" : {
+            "untilDate" : 2147483647,
+            "flags" : {
+              "rawValue" : 17204224
+            }
+          },
+          "version" : 0,
+          "photo" : [
+            {
+              "immediateThumbnailData" : {
+                "count" : 14,
+                "pointer" : {
+                  "pointerValue" : 6125773368
+                },
+                "bytes" : [
+                  1,
+                  8,
+                  8,
+                  161,
+                  242,
+                  108,
+                  234,
+                  119,
+                  125,
+                  40,
+                  162,
+                  138,
+                  161,
+                  31
+                ]
+              },
+              "hasVideo" : false,
+              "dimensions" : {
+                "height" : 80,
+                "width" : 80
+              },
+              "typeHint" : "generic",
+              "progressiveSizes" : [
+
+              ],
+              "isPersonal" : false,
+              "resource" : {
+                "datacenterId" : 1,
+                "photoId" : 5015280483621252335,
+                "sizeSpec" : "small"
+              }
+            },
+            {
+              "immediateThumbnailData" : {
+                "bytes" : [
+                  1,
+                  8,
+                  8,
+                  161,
+                  242,
+                  108,
+                  234,
+                  119,
+                  125,
+                  40,
+                  162,
+                  138,
+                  161,
+                  31
+                ],
+                "pointer" : {
+                  "pointerValue" : 6125773368
+                },
+                "count" : 14
+              },
+              "typeHint" : "generic",
+              "dimensions" : {
+                "height" : 640,
+                "width" : 640
+              },
+              "hasVideo" : false,
+              "progressiveSizes" : [
+
+              ],
+              "resource" : {
+                "photoId" : 5015280483621252335,
+                "sizeSpec" : "fullSize",
+                "datacenterId" : 1
+              },
+              "isPersonal" : false
+            }
+          ],
+          "username" : "chepesign",
+          "creationDate" : 1729651523,
+          "approximateBoostLevel" : 2,
+          "participationStatus" : "member",
+          "usernames" : [
+
+          ]
+        }
+      },
+      {
+        ".0" : {
+          "namespace" : {
+            "rawValue" : 0
+          },
+          "id" : {
+            "rawValue" : 379350324
+          }
+        },
+        ".1" : {
+          "firstName" : "Chetos",
+          "username" : "ChetosCel",
+          "storiesHidden" : false,
+          "flags" : {
+            "rawValue" : 0
+          },
+          "id" : {
+            "namespace" : {
+              "rawValue" : 0
+            },
+            "id" : {
+              "rawValue" : 379350324
+            }
+          },
+          "photo" : [
+
+          ],
+          "accessHash" : {
+            "personal" : 5351135215456745139
+          },
+          "lastName" : "Jimenez",
+          "usernames" : [
+
+          ]
+        }
+      }
+    ]
+  },
+  "globalTags" : {
+    "rawValue" : 0
+  },
+  "id" : {
+    "namespace" : 0,
+    "id" : 1820,
+    "peerId" : {
+      "id" : {
+        "rawValue" : 1540269592
+      },
+      "namespace" : {
+        "rawValue" : 2
+      }
+    }
+  },
+  "associatedThreadInfo" : {
+    "icon" : 6167861053267905107,
+    "isClosed" : true,
+    "iconColor" : 9367192,
+    "title" : "Beta Testflight"
+  },
+  "associatedMessages" : {
+    "items" : [
+      {
+        ".1" : {
+          "stableVersion" : 171,
+          "timestamp" : 1729651098,
+          "globalTags" : {
+            "rawValue" : 0
+          },
+          "peers" : {
+            "items" : [
+              {
+                ".1" : {
+                  "flags" : {
+                    "rawValue" : 2048
+                  },
+                  "id" : {
+                    "namespace" : {
+                      "rawValue" : 2
+                    },
+                    "id" : {
+                      "rawValue" : 1540269592
+                    }
+                  },
+                  "version" : 0,
+                  "accessHash" : {
+                    "personal" : -1806500660471721712
+                  },
+                  "creationDate" : 1729651523,
+                  "title" : "CHEPESign || IPAs ",
+                  "adminRights" : {
+                    "rights" : {
+                      "rawValue" : 125113
+                    }
+                  },
+                  "info" : {
+                    "group" : {
+                      "flags" : {
+                        "rawValue" : 0
+                      }
+                    }
+                  },
+                  "photo" : [
+                    {
+                      "hasVideo" : false,
+                      "progressiveSizes" : [
+
+                      ],
+                      "resource" : {
+                        "sizeSpec" : "small",
+                        "photoId" : 5015280483621252335,
+                        "datacenterId" : 1
+                      },
+                      "dimensions" : {
+                        "width" : 80,
+                        "height" : 80
+                      },
+                      "isPersonal" : false,
+                      "immediateThumbnailData" : {
+                        "pointer" : {
+                          "pointerValue" : 6125767496
+                        },
+                        "count" : 14,
+                        "bytes" : [
+                          1,
+                          8,
+                          8,
+                          161,
+                          242,
+                          108,
+                          234,
+                          119,
+                          125,
+                          40,
+                          162,
+                          138,
+                          161,
+                          31
+                        ]
+                      },
+                      "typeHint" : "generic"
+                    },
+                    {
+                      "dimensions" : {
+                        "width" : 640,
+                        "height" : 640
+                      },
+                      "isPersonal" : false,
+                      "progressiveSizes" : [
+
+                      ],
+                      "resource" : {
+                        "sizeSpec" : "fullSize",
+                        "datacenterId" : 1,
+                        "photoId" : 5015280483621252335
+                      },
+                      "immediateThumbnailData" : {
+                        "count" : 14,
+                        "bytes" : [
+                          1,
+                          8,
+                          8,
+                          161,
+                          242,
+                          108,
+                          234,
+                          119,
+                          125,
+                          40,
+                          162,
+                          138,
+                          161,
+                          31
+                        ],
+                        "pointer" : {
+                          "pointerValue" : 6125767496
+                        }
+                      },
+                      "typeHint" : "generic",
+                      "hasVideo" : false
+                    }
+                  ],
+                  "storiesHidden" : false,
+                  "approximateBoostLevel" : 2,
+                  "defaultBannedRights" : {
+                    "untilDate" : 2147483647,
+                    "flags" : {
+                      "rawValue" : 17204224
+                    }
+                  },
+                  "usernames" : [
+
+                  ],
+                  "participationStatus" : "member",
+                  "username" : "chepesign"
+                },
+                ".0" : {
+                  "id" : {
+                    "rawValue" : 1540269592
+                  },
+                  "namespace" : {
+                    "rawValue" : 2
+                  }
+                }
+              }
+            ]
+          },
+          "associatedStories" : {
+
+          },
+          "associatedMessageIds" : [
+
+          ],
+          "media" : [
+            {
+              "action" : {
+                "topicCreated" : {
+                  "iconColor" : 9367192,
+                  "title" : "Beta Testfligth",
+                  "iconFileId" : 5310228579009699834
+                }
+              }
+            }
+          ],
+          "id" : {
+            "peerId" : {
+              "id" : {
+                "rawValue" : 1540269592
+              },
+              "namespace" : {
+                "rawValue" : 2
+              }
+            },
+            "namespace" : 0,
+            "id" : 692
+          },
+          "tags" : {
+            "rawValue" : 0
+          },
+          "attributes" : [
+
+          ],
+          "flags" : {
+            "rawValue" : 68
+          },
+          "author" : {
+            "participationStatus" : "member",
+            "info" : {
+              "group" : {
+                "flags" : {
+                  "rawValue" : 0
+                }
+              }
+            },
+            "accessHash" : {
+              "personal" : -1806500660471721712
+            },
+            "username" : "chepesign",
+            "flags" : {
+              "rawValue" : 2048
+            },
+            "creationDate" : 1729651523,
+            "title" : "CHEPESign || IPAs ",
+            "defaultBannedRights" : {
+              "flags" : {
+                "rawValue" : 17204224
+              },
+              "untilDate" : 2147483647
+            },
+            "storiesHidden" : false,
+            "adminRights" : {
+              "rights" : {
+                "rawValue" : 125113
+              }
+            },
+            "usernames" : [
+
+            ],
+            "id" : {
+              "id" : {
+                "rawValue" : 1540269592
+              },
+              "namespace" : {
+                "rawValue" : 2
+              }
+            },
+            "version" : 0,
+            "approximateBoostLevel" : 2,
+            "photo" : [
+              {
+                "resource" : {
+                  "datacenterId" : 1,
+                  "sizeSpec" : "small",
+                  "photoId" : 5015280483621252335
+                },
+                "isPersonal" : false,
+                "dimensions" : {
+                  "height" : 80,
+                  "width" : 80
+                },
+                "immediateThumbnailData" : {
+                  "count" : 14,
+                  "pointer" : {
+                    "pointerValue" : 6125771464
+                  },
+                  "bytes" : [
+                    1,
+                    8,
+                    8,
+                    161,
+                    242,
+                    108,
+                    234,
+                    119,
+                    125,
+                    40,
+                    162,
+                    138,
+                    161,
+                    31
+                  ]
+                },
+                "typeHint" : "generic",
+                "progressiveSizes" : [
+
+                ],
+                "hasVideo" : false
+              },
+              {
+                "isPersonal" : false,
+                "immediateThumbnailData" : {
+                  "bytes" : [
+                    1,
+                    8,
+                    8,
+                    161,
+                    242,
+                    108,
+                    234,
+                    119,
+                    125,
+                    40,
+                    162,
+                    138,
+                    161,
+                    31
+                  ],
+                  "pointer" : {
+                    "pointerValue" : 6125771464
+                  },
+                  "count" : 14
+                },
+                "typeHint" : "generic",
+                "progressiveSizes" : [
+
+                ],
+                "hasVideo" : false,
+                "dimensions" : {
+                  "height" : 640,
+                  "width" : 640
+                },
+                "resource" : {
+                  "photoId" : 5015280483621252335,
+                  "sizeSpec" : "fullSize",
+                  "datacenterId" : 1
+                }
+              }
+            ]
+          },
+          "associatedMessages" : {
+            "items" : [
+
+            ]
+          },
+          "associatedMedia" : {
+
+          },
+          "associatedThreadInfo" : {
+            "isClosed" : true,
+            "title" : "Beta Testflight",
+            "icon" : 6167861053267905107,
+            "iconColor" : 9367192
+          },
+          "threadId" : 692,
+          "localTags" : {
+            "rawValue" : 0
+          },
+          "text" : "",
+          "stableId" : 31256,
+          "customTags" : [
+
+          ]
+        },
+        ".0" : {
+          "peerId" : {
+            "id" : {
+              "rawValue" : 1540269592
+            },
+            "namespace" : {
+              "rawValue" : 2
+            }
+          },
+          "id" : 692,
+          "namespace" : 0
+        }
+      }
+    ]
+  },
+  "localTags" : {
+    "rawValue" : 0
+  },
+  "customTags" : [
+
+  ],
+  "stableVersion" : 13,
+  "associatedStories" : {
+
+  },
+  "associatedMessageIds" : [
+    {
+      "namespace" : 0,
+      "id" : 692,
+      "peerId" : {
+        "namespace" : {
+          "rawValue" : 2
+        },
+        "id" : {
+          "rawValue" : 1540269592
+        }
+      }
+    }
+  ]
+}

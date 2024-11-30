@@ -1,0 +1,1783 @@
+{
+  "associatedMessages" : {
+    "items" : [
+      {
+        ".1" : {
+          "associatedMessageIds" : [
+
+          ],
+          "flags" : {
+            "rawValue" : 68
+          },
+          "author" : {
+            "defaultBannedRights" : {
+              "flags" : {
+                "rawValue" : 17204224
+              },
+              "untilDate" : 2147483647
+            },
+            "title" : "CHEPESign || IPAs ",
+            "participationStatus" : "member",
+            "creationDate" : 1729651523,
+            "username" : "chepesign",
+            "version" : 0,
+            "id" : {
+              "namespace" : {
+                "rawValue" : 2
+              },
+              "id" : {
+                "rawValue" : 1540269592
+              }
+            },
+            "usernames" : [
+
+            ],
+            "info" : {
+              "group" : {
+                "flags" : {
+                  "rawValue" : 0
+                }
+              }
+            },
+            "accessHash" : {
+              "personal" : -1806500660471721712
+            },
+            "flags" : {
+              "rawValue" : 2048
+            },
+            "photo" : [
+              {
+                "typeHint" : "generic",
+                "isPersonal" : false,
+                "progressiveSizes" : [
+
+                ],
+                "dimensions" : {
+                  "height" : 80,
+                  "width" : 80
+                },
+                "hasVideo" : false,
+                "resource" : {
+                  "datacenterId" : 1,
+                  "sizeSpec" : "small",
+                  "photoId" : 5015280483621252335
+                },
+                "immediateThumbnailData" : {
+                  "count" : 14,
+                  "pointer" : {
+                    "pointerValue" : 6125771464
+                  },
+                  "bytes" : [
+                    1,
+                    8,
+                    8,
+                    161,
+                    242,
+                    108,
+                    234,
+                    119,
+                    125,
+                    40,
+                    162,
+                    138,
+                    161,
+                    31
+                  ]
+                }
+              },
+              {
+                "resource" : {
+                  "sizeSpec" : "fullSize",
+                  "datacenterId" : 1,
+                  "photoId" : 5015280483621252335
+                },
+                "dimensions" : {
+                  "height" : 640,
+                  "width" : 640
+                },
+                "immediateThumbnailData" : {
+                  "bytes" : [
+                    1,
+                    8,
+                    8,
+                    161,
+                    242,
+                    108,
+                    234,
+                    119,
+                    125,
+                    40,
+                    162,
+                    138,
+                    161,
+                    31
+                  ],
+                  "pointer" : {
+                    "pointerValue" : 6125771464
+                  },
+                  "count" : 14
+                },
+                "typeHint" : "generic",
+                "hasVideo" : false,
+                "progressiveSizes" : [
+
+                ],
+                "isPersonal" : false
+              }
+            ],
+            "storiesHidden" : false,
+            "approximateBoostLevel" : 2,
+            "adminRights" : {
+              "rights" : {
+                "rawValue" : 125113
+              }
+            }
+          },
+          "globalTags" : {
+            "rawValue" : 0
+          },
+          "customTags" : [
+
+          ],
+          "attributes" : [
+
+          ],
+          "timestamp" : 1729651098,
+          "associatedMedia" : {
+
+          },
+          "text" : "",
+          "associatedStories" : {
+
+          },
+          "tags" : {
+            "rawValue" : 0
+          },
+          "localTags" : {
+            "rawValue" : 0
+          },
+          "stableVersion" : 171,
+          "id" : {
+            "peerId" : {
+              "id" : {
+                "rawValue" : 1540269592
+              },
+              "namespace" : {
+                "rawValue" : 2
+              }
+            },
+            "id" : 692,
+            "namespace" : 0
+          },
+          "threadId" : 692,
+          "media" : [
+            {
+              "action" : {
+                "topicCreated" : {
+                  "iconFileId" : 5310228579009699834,
+                  "title" : "Beta Testfligth",
+                  "iconColor" : 9367192
+                }
+              }
+            }
+          ],
+          "associatedMessages" : {
+            "items" : [
+
+            ]
+          },
+          "stableId" : 31256,
+          "peers" : {
+            "items" : [
+              {
+                ".1" : {
+                  "info" : {
+                    "group" : {
+                      "flags" : {
+                        "rawValue" : 0
+                      }
+                    }
+                  },
+                  "accessHash" : {
+                    "personal" : -1806500660471721712
+                  },
+                  "adminRights" : {
+                    "rights" : {
+                      "rawValue" : 125113
+                    }
+                  },
+                  "defaultBannedRights" : {
+                    "flags" : {
+                      "rawValue" : 17204224
+                    },
+                    "untilDate" : 2147483647
+                  },
+                  "flags" : {
+                    "rawValue" : 2048
+                  },
+                  "usernames" : [
+
+                  ],
+                  "photo" : [
+                    {
+                      "progressiveSizes" : [
+
+                      ],
+                      "resource" : {
+                        "sizeSpec" : "small",
+                        "datacenterId" : 1,
+                        "photoId" : 5015280483621252335
+                      },
+                      "immediateThumbnailData" : {
+                        "count" : 14,
+                        "pointer" : {
+                          "pointerValue" : 6125767496
+                        },
+                        "bytes" : [
+                          1,
+                          8,
+                          8,
+                          161,
+                          242,
+                          108,
+                          234,
+                          119,
+                          125,
+                          40,
+                          162,
+                          138,
+                          161,
+                          31
+                        ]
+                      },
+                      "isPersonal" : false,
+                      "hasVideo" : false,
+                      "dimensions" : {
+                        "width" : 80,
+                        "height" : 80
+                      },
+                      "typeHint" : "generic"
+                    },
+                    {
+                      "resource" : {
+                        "sizeSpec" : "fullSize",
+                        "photoId" : 5015280483621252335,
+                        "datacenterId" : 1
+                      },
+                      "progressiveSizes" : [
+
+                      ],
+                      "hasVideo" : false,
+                      "typeHint" : "generic",
+                      "dimensions" : {
+                        "height" : 640,
+                        "width" : 640
+                      },
+                      "immediateThumbnailData" : {
+                        "count" : 14,
+                        "pointer" : {
+                          "pointerValue" : 6125767496
+                        },
+                        "bytes" : [
+                          1,
+                          8,
+                          8,
+                          161,
+                          242,
+                          108,
+                          234,
+                          119,
+                          125,
+                          40,
+                          162,
+                          138,
+                          161,
+                          31
+                        ]
+                      },
+                      "isPersonal" : false
+                    }
+                  ],
+                  "title" : "CHEPESign || IPAs ",
+                  "creationDate" : 1729651523,
+                  "username" : "chepesign",
+                  "storiesHidden" : false,
+                  "approximateBoostLevel" : 2,
+                  "id" : {
+                    "id" : {
+                      "rawValue" : 1540269592
+                    },
+                    "namespace" : {
+                      "rawValue" : 2
+                    }
+                  },
+                  "version" : 0,
+                  "participationStatus" : "member"
+                },
+                ".0" : {
+                  "namespace" : {
+                    "rawValue" : 2
+                  },
+                  "id" : {
+                    "rawValue" : 1540269592
+                  }
+                }
+              }
+            ]
+          },
+          "associatedThreadInfo" : {
+            "iconColor" : 9367192,
+            "isClosed" : true,
+            "icon" : 6167861053267905107,
+            "title" : "Beta Testflight"
+          }
+        },
+        ".0" : {
+          "peerId" : {
+            "id" : {
+              "rawValue" : 1540269592
+            },
+            "namespace" : {
+              "rawValue" : 2
+            }
+          },
+          "id" : 692,
+          "namespace" : 0
+        }
+      }
+    ]
+  },
+  "associatedThreadInfo" : {
+    "title" : "Beta Testflight",
+    "icon" : 6167861053267905107,
+    "iconColor" : 9367192,
+    "isClosed" : true
+  },
+  "associatedStories" : {
+
+  },
+  "author" : {
+    "id" : {
+      "namespace" : {
+        "rawValue" : 0
+      },
+      "id" : {
+        "rawValue" : 940806332
+      }
+    },
+    "profileBackgroundEmojiId" : 5355260752762518003,
+    "usernames" : [
+
+    ],
+    "photo" : [
+      {
+        "hasVideo" : false,
+        "typeHint" : "generic",
+        "resource" : {
+          "datacenterId" : 1,
+          "sizeSpec" : "small",
+          "photoId" : 4040732428265957300
+        },
+        "isPersonal" : false,
+        "progressiveSizes" : [
+
+        ],
+        "immediateThumbnailData" : {
+          "count" : 14,
+          "pointer" : {
+            "pointerValue" : 6125777336
+          },
+          "bytes" : [
+            1,
+            8,
+            8,
+            161,
+            242,
+            108,
+            234,
+            119,
+            125,
+            40,
+            162,
+            138,
+            161,
+            31
+          ]
+        },
+        "dimensions" : {
+          "height" : 80,
+          "width" : 80
+        }
+      },
+      {
+        "typeHint" : "generic",
+        "isPersonal" : false,
+        "dimensions" : {
+          "height" : 640,
+          "width" : 640
+        },
+        "hasVideo" : false,
+        "immediateThumbnailData" : {
+          "pointer" : {
+            "pointerValue" : 6125777336
+          },
+          "bytes" : [
+            1,
+            8,
+            8,
+            161,
+            242,
+            108,
+            234,
+            119,
+            125,
+            40,
+            162,
+            138,
+            161,
+            31
+          ],
+          "count" : 14
+        },
+        "progressiveSizes" : [
+
+        ],
+        "resource" : {
+          "datacenterId" : 1,
+          "photoId" : 4040732428265957300,
+          "sizeSpec" : "fullSize"
+        }
+      }
+    ],
+    "firstName" : "ChepeSign",
+    "storiesHidden" : false,
+    "username" : "chepesign_13",
+    "accessHash" : {
+      "personal" : 5563284096315555922
+    },
+    "phone" : "18299097340",
+    "profileColor" : {
+      "other" : 12
+    },
+    "emojiStatus" : {
+      "fileId" : 5363926570836699898
+    },
+    "nameColor" : {
+      "other" : 19
+    },
+    "backgroundEmojiId" : 5355260752762518003,
+    "flags" : {
+      "rawValue" : 144
+    }
+  },
+  "peers" : {
+    "items" : [
+      {
+        ".0" : {
+          "namespace" : {
+            "rawValue" : 2
+          },
+          "id" : {
+            "rawValue" : 1540269592
+          }
+        },
+        ".1" : {
+          "participationStatus" : "member",
+          "storiesHidden" : false,
+          "title" : "CHEPESign || IPAs ",
+          "approximateBoostLevel" : 2,
+          "version" : 0,
+          "defaultBannedRights" : {
+            "flags" : {
+              "rawValue" : 17204224
+            },
+            "untilDate" : 2147483647
+          },
+          "creationDate" : 1729651523,
+          "info" : {
+            "group" : {
+              "flags" : {
+                "rawValue" : 0
+              }
+            }
+          },
+          "id" : {
+            "namespace" : {
+              "rawValue" : 2
+            },
+            "id" : {
+              "rawValue" : 1540269592
+            }
+          },
+          "adminRights" : {
+            "rights" : {
+              "rawValue" : 125113
+            }
+          },
+          "username" : "chepesign",
+          "usernames" : [
+
+          ],
+          "photo" : [
+            {
+              "resource" : {
+                "datacenterId" : 1,
+                "photoId" : 5015280483621252335,
+                "sizeSpec" : "small"
+              },
+              "dimensions" : {
+                "width" : 80,
+                "height" : 80
+              },
+              "isPersonal" : false,
+              "progressiveSizes" : [
+
+              ],
+              "typeHint" : "generic",
+              "immediateThumbnailData" : {
+                "count" : 14,
+                "pointer" : {
+                  "pointerValue" : 6125773368
+                },
+                "bytes" : [
+                  1,
+                  8,
+                  8,
+                  161,
+                  242,
+                  108,
+                  234,
+                  119,
+                  125,
+                  40,
+                  162,
+                  138,
+                  161,
+                  31
+                ]
+              },
+              "hasVideo" : false
+            },
+            {
+              "typeHint" : "generic",
+              "progressiveSizes" : [
+
+              ],
+              "dimensions" : {
+                "width" : 640,
+                "height" : 640
+              },
+              "immediateThumbnailData" : {
+                "bytes" : [
+                  1,
+                  8,
+                  8,
+                  161,
+                  242,
+                  108,
+                  234,
+                  119,
+                  125,
+                  40,
+                  162,
+                  138,
+                  161,
+                  31
+                ],
+                "count" : 14,
+                "pointer" : {
+                  "pointerValue" : 6125773368
+                }
+              },
+              "resource" : {
+                "sizeSpec" : "fullSize",
+                "photoId" : 5015280483621252335,
+                "datacenterId" : 1
+              },
+              "hasVideo" : false,
+              "isPersonal" : false
+            }
+          ],
+          "flags" : {
+            "rawValue" : 2048
+          },
+          "accessHash" : {
+            "personal" : -1806500660471721712
+          }
+        }
+      },
+      {
+        ".0" : {
+          "id" : {
+            "rawValue" : 379350324
+          },
+          "namespace" : {
+            "rawValue" : 0
+          }
+        },
+        ".1" : {
+          "accessHash" : {
+            "personal" : 5351135215456745139
+          },
+          "photo" : [
+
+          ],
+          "username" : "ChetosCel",
+          "storiesHidden" : false,
+          "id" : {
+            "id" : {
+              "rawValue" : 379350324
+            },
+            "namespace" : {
+              "rawValue" : 0
+            }
+          },
+          "lastName" : "Jimenez",
+          "usernames" : [
+
+          ],
+          "flags" : {
+            "rawValue" : 0
+          },
+          "firstName" : "Chetos"
+        }
+      },
+      {
+        ".1" : {
+          "firstName" : "@Zfull",
+          "id" : {
+            "namespace" : {
+              "rawValue" : 0
+            },
+            "id" : {
+              "rawValue" : 1119265494
+            }
+          },
+          "accessHash" : {
+            "personal" : 8632217407696529411
+          },
+          "flags" : {
+            "rawValue" : 144
+          },
+          "phone" : "50498051186",
+          "usernames" : [
+
+          ],
+          "photo" : [
+            {
+              "resource" : {
+                "photoId" : 5024312713945395029,
+                "sizeSpec" : "small",
+                "datacenterId" : 1
+              },
+              "immediateThumbnailData" : {
+                "count" : 12,
+                "pointer" : {
+                  "pointerValue" : 6125773368
+                },
+                "bytes" : [
+                  1,
+                  8,
+                  8,
+                  207,
+                  249,
+                  118,
+                  123,
+                  209,
+                  69,
+                  21,
+                  100,
+                  159
+                ]
+              },
+              "hasVideo" : false,
+              "dimensions" : {
+                "width" : 80,
+                "height" : 80
+              },
+              "typeHint" : "generic",
+              "progressiveSizes" : [
+
+              ],
+              "isPersonal" : false
+            },
+            {
+              "immediateThumbnailData" : {
+                "bytes" : [
+                  1,
+                  8,
+                  8,
+                  207,
+                  249,
+                  118,
+                  123,
+                  209,
+                  69,
+                  21,
+                  100,
+                  159
+                ],
+                "count" : 12,
+                "pointer" : {
+                  "pointerValue" : 6125773368
+                }
+              },
+              "dimensions" : {
+                "width" : 640,
+                "height" : 640
+              },
+              "typeHint" : "generic",
+              "progressiveSizes" : [
+
+              ],
+              "isPersonal" : false,
+              "resource" : {
+                "photoId" : 5024312713945395029,
+                "sizeSpec" : "fullSize",
+                "datacenterId" : 1
+              },
+              "hasVideo" : false
+            }
+          ],
+          "username" : "Zfull27",
+          "storiesHidden" : false
+        },
+        ".0" : {
+          "id" : {
+            "rawValue" : 1119265494
+          },
+          "namespace" : {
+            "rawValue" : 0
+          }
+        }
+      }
+    ]
+  },
+  "id" : {
+    "peerId" : {
+      "namespace" : {
+        "rawValue" : 2
+      },
+      "id" : {
+        "rawValue" : 1540269592
+      }
+    },
+    "namespace" : 0,
+    "id" : 1925
+  },
+  "localTags" : {
+    "rawValue" : 0
+  },
+  "associatedMedia" : {
+    "5:5206607081334906820" : {
+      "attributes" : [
+        {
+          "ImageSize" : {
+            "size" : {
+              "width" : 512,
+              "height" : 512
+            }
+          }
+        },
+        {
+          "CustomEmoji" : {
+            "alt" : "✔️",
+            "isPremium" : true,
+            "isSingleColor" : false,
+            "packReference" : {
+              "id" : {
+                "id" : 1269403972611866648,
+                "accessHash" : -5478764272704740602
+              }
+            }
+          }
+        },
+        {
+          "FileName" : {
+            "fileName" : "AnimatedSticker.tgs"
+          }
+        },
+        "hintIsValidated"
+      ],
+      "alternativeRepresentations" : [
+
+      ],
+      "peerIds" : [
+
+      ],
+      "previewRepresentations" : [
+        {
+          "typeHint" : "generic",
+          "dimensions" : {
+            "height" : 128,
+            "width" : 128
+          },
+          "resource" : {
+            "accessHash" : 5635636709401767927,
+            "fileReference" : {
+              "bytes" : [
+                0,
+                103,
+                9,
+                245,
+                87,
+                69,
+                190,
+                160,
+                19,
+                84,
+                139,
+                63,
+                0,
+                38,
+                9,
+                35,
+                31,
+                58,
+                205,
+                77,
+                218
+              ],
+              "count" : 21,
+              "pointer" : {
+                "pointerValue" : 12885255328
+              }
+            },
+            "sizeSpec" : "m",
+            "documentId" : 5206607081334906820,
+            "datacenterId" : 2
+          },
+          "progressiveSizes" : [
+
+          ],
+          "hasVideo" : false,
+          "isPersonal" : false
+        }
+      ],
+      "immediateThumbnailData" : {
+        "pointer" : {
+          "pointerValue" : 12932905968
+        },
+        "count" : 86
+      },
+      "mimeType" : "application/x-tgsticker",
+      "videoThumbnails" : [
+
+      ],
+      "fileId" : {
+        "namespace" : 5,
+        "id" : 5206607081334906820
+      },
+      "resource" : {
+        "size" : 4874,
+        "accessHash" : 5635636709401767927,
+        "fileId" : 5206607081334906820,
+        "fileReference" : {
+          "pointer" : {
+            "pointerValue" : 12885255968
+          },
+          "bytes" : [
+            0,
+            103,
+            9,
+            245,
+            87,
+            69,
+            190,
+            160,
+            19,
+            84,
+            139,
+            63,
+            0,
+            38,
+            9,
+            35,
+            31,
+            58,
+            205,
+            77,
+            218
+          ],
+          "count" : 21
+        },
+        "datacenterId" : 2,
+        "fileName" : "AnimatedSticker.tgs"
+      },
+      "size" : 4874
+    },
+    "5:5456312597273923475" : {
+      "mimeType" : "application/x-tgsticker",
+      "attributes" : [
+        {
+          "ImageSize" : {
+            "size" : {
+              "height" : 512,
+              "width" : 512
+            }
+          }
+        },
+        {
+          "CustomEmoji" : {
+            "isPremium" : true,
+            "packReference" : {
+              "id" : {
+                "id" : 350388835076538391,
+                "accessHash" : 6184084341450960886
+              }
+            },
+            "alt" : "🔨",
+            "isSingleColor" : false
+          }
+        },
+        {
+          "FileName" : {
+            "fileName" : "AnimatedSticker.tgs"
+          }
+        },
+        "hintIsValidated"
+      ],
+      "alternativeRepresentations" : [
+
+      ],
+      "peerIds" : [
+
+      ],
+      "size" : 8051,
+      "videoThumbnails" : [
+
+      ],
+      "resource" : {
+        "datacenterId" : 2,
+        "fileName" : "AnimatedSticker.tgs",
+        "fileReference" : {
+          "count" : 21,
+          "pointer" : {
+            "pointerValue" : 12885252768
+          },
+          "bytes" : [
+            0,
+            103,
+            54,
+            153,
+            229,
+            87,
+            183,
+            107,
+            94,
+            115,
+            67,
+            169,
+            1,
+            41,
+            234,
+            146,
+            148,
+            62,
+            48,
+            40,
+            41
+          ]
+        },
+        "accessHash" : -5165087438383847018,
+        "size" : 8051,
+        "fileId" : 5456312597273923475
+      },
+      "fileId" : {
+        "id" : 5456312597273923475,
+        "namespace" : 5
+      },
+      "immediateThumbnailData" : {
+        "pointer" : {
+          "pointerValue" : 12939015104
+        },
+        "count" : 143
+      },
+      "previewRepresentations" : [
+        {
+          "typeHint" : "generic",
+          "isPersonal" : false,
+          "dimensions" : {
+            "height" : 128,
+            "width" : 128
+          },
+          "progressiveSizes" : [
+
+          ],
+          "resource" : {
+            "datacenterId" : 2,
+            "accessHash" : -5165087438383847018,
+            "sizeSpec" : "m",
+            "documentId" : 5456312597273923475,
+            "fileReference" : {
+              "count" : 21,
+              "pointer" : {
+                "pointerValue" : 12885241408
+              },
+              "bytes" : [
+                0,
+                103,
+                54,
+                153,
+                229,
+                87,
+                183,
+                107,
+                94,
+                115,
+                67,
+                169,
+                1,
+                41,
+                234,
+                146,
+                148,
+                62,
+                48,
+                40,
+                41
+              ]
+            }
+          },
+          "hasVideo" : false
+        }
+      ]
+    },
+    "5:5231005931550030290" : {
+      "immediateThumbnailData" : {
+        "count" : 174,
+        "pointer" : {
+          "pointerValue" : 12951344160
+        }
+      },
+      "alternativeRepresentations" : [
+
+      ],
+      "mimeType" : "application/x-tgsticker",
+      "resource" : {
+        "datacenterId" : 2,
+        "fileId" : 5231005931550030290,
+        "accessHash" : -4791564510661341810,
+        "size" : 23060,
+        "fileName" : "AnimatedSticker.tgs",
+        "fileReference" : {
+          "pointer" : {
+            "pointerValue" : 12885254976
+          },
+          "bytes" : [
+            0,
+            103,
+            69,
+            9,
+            249,
+            57,
+            227,
+            143,
+            57,
+            44,
+            132,
+            66,
+            31,
+            100,
+            4,
+            103,
+            113,
+            44,
+            127,
+            208,
+            62
+          ],
+          "count" : 21
+        }
+      },
+      "fileId" : {
+        "id" : 5231005931550030290,
+        "namespace" : 5
+      },
+      "size" : 23060,
+      "previewRepresentations" : [
+        {
+          "isPersonal" : false,
+          "resource" : {
+            "documentId" : 5231005931550030290,
+            "fileReference" : {
+              "count" : 21,
+              "pointer" : {
+                "pointerValue" : 12885254688
+              },
+              "bytes" : [
+                0,
+                103,
+                69,
+                9,
+                249,
+                57,
+                227,
+                143,
+                57,
+                44,
+                132,
+                66,
+                31,
+                100,
+                4,
+                103,
+                113,
+                44,
+                127,
+                208,
+                62
+              ]
+            },
+            "datacenterId" : 2,
+            "accessHash" : -4791564510661341810,
+            "sizeSpec" : "m"
+          },
+          "progressiveSizes" : [
+
+          ],
+          "hasVideo" : false,
+          "dimensions" : {
+            "width" : 128,
+            "height" : 128
+          },
+          "typeHint" : "generic"
+        }
+      ],
+      "attributes" : [
+        {
+          "ImageSize" : {
+            "size" : {
+              "width" : 512,
+              "height" : 512
+            }
+          }
+        },
+        {
+          "CustomEmoji" : {
+            "isPremium" : true,
+            "alt" : "💸",
+            "isSingleColor" : false,
+            "packReference" : {
+              "id" : {
+                "accessHash" : -5478764272704740602,
+                "id" : 1269403972611866648
+              }
+            }
+          }
+        },
+        {
+          "FileName" : {
+            "fileName" : "AnimatedSticker.tgs"
+          }
+        },
+        "hintIsValidated"
+      ],
+      "videoThumbnails" : [
+
+      ],
+      "peerIds" : [
+
+      ]
+    },
+    "5:5375338737028841420" : {
+      "resource" : {
+        "fileName" : "AnimatedSticker.tgs",
+        "size" : 10025,
+        "fileId" : 5375338737028841420,
+        "accessHash" : -2279089419667696198,
+        "fileReference" : {
+          "pointer" : {
+            "pointerValue" : 12885255616
+          },
+          "bytes" : [
+            0,
+            103,
+            9,
+            245,
+            90,
+            3,
+            94,
+            212,
+            55,
+            84,
+            35,
+            60,
+            18,
+            200,
+            151,
+            65,
+            158,
+            85,
+            204,
+            135,
+            138
+          ],
+          "count" : 21
+        },
+        "datacenterId" : 2
+      },
+      "peerIds" : [
+
+      ],
+      "mimeType" : "application/x-tgsticker",
+      "videoThumbnails" : [
+
+      ],
+      "attributes" : [
+        {
+          "ImageSize" : {
+            "size" : {
+              "width" : 512,
+              "height" : 512
+            }
+          }
+        },
+        {
+          "CustomEmoji" : {
+            "isPremium" : true,
+            "packReference" : {
+              "id" : {
+                "id" : 1269403972611866648,
+                "accessHash" : -5478764272704740602
+              }
+            },
+            "alt" : "🔄",
+            "isSingleColor" : false
+          }
+        },
+        {
+          "FileName" : {
+            "fileName" : "AnimatedSticker.tgs"
+          }
+        },
+        "hintIsValidated"
+      ],
+      "alternativeRepresentations" : [
+
+      ],
+      "immediateThumbnailData" : {
+        "count" : 247,
+        "pointer" : {
+          "pointerValue" : 5851035712
+        }
+      },
+      "previewRepresentations" : [
+        {
+          "resource" : {
+            "accessHash" : -2279089419667696198,
+            "documentId" : 5375338737028841420,
+            "sizeSpec" : "m",
+            "fileReference" : {
+              "count" : 21,
+              "bytes" : [
+                0,
+                103,
+                9,
+                245,
+                90,
+                3,
+                94,
+                212,
+                55,
+                84,
+                35,
+                60,
+                18,
+                200,
+                151,
+                65,
+                158,
+                85,
+                204,
+                135,
+                138
+              ],
+              "pointer" : {
+                "pointerValue" : 12885254304
+              }
+            },
+            "datacenterId" : 2
+          },
+          "dimensions" : {
+            "width" : 128,
+            "height" : 128
+          },
+          "typeHint" : "generic",
+          "hasVideo" : false,
+          "progressiveSizes" : [
+
+          ],
+          "isPersonal" : false
+        }
+      ],
+      "fileId" : {
+        "id" : 5375338737028841420,
+        "namespace" : 5
+      },
+      "size" : 10025
+    },
+    "5:5406683434124859552" : {
+      "alternativeRepresentations" : [
+
+      ],
+      "mimeType" : "application/x-tgsticker",
+      "resource" : {
+        "fileName" : "AnimatedSticker.tgs",
+        "accessHash" : -7688478311376064936,
+        "size" : 10027,
+        "fileId" : 5406683434124859552,
+        "datacenterId" : 2,
+        "fileReference" : {
+          "count" : 21,
+          "pointer" : {
+            "pointerValue" : 12885223680
+          },
+          "bytes" : [
+            0,
+            103,
+            56,
+            9,
+            245,
+            190,
+            188,
+            158,
+            6,
+            204,
+            46,
+            174,
+            10,
+            14,
+            36,
+            189,
+            98,
+            248,
+            168,
+            0,
+            250
+          ]
+        }
+      },
+      "attributes" : [
+        {
+          "ImageSize" : {
+            "size" : {
+              "width" : 512,
+              "height" : 512
+            }
+          }
+        },
+        {
+          "CustomEmoji" : {
+            "isPremium" : true,
+            "isSingleColor" : false,
+            "packReference" : {
+              "id" : {
+                "accessHash" : -5478764272704740602,
+                "id" : 1269403972611866648
+              }
+            },
+            "alt" : "🛍"
+          }
+        },
+        {
+          "FileName" : {
+            "fileName" : "AnimatedSticker.tgs"
+          }
+        },
+        "hintIsValidated"
+      ],
+      "peerIds" : [
+
+      ],
+      "previewRepresentations" : [
+        {
+          "hasVideo" : false,
+          "dimensions" : {
+            "width" : 128,
+            "height" : 128
+          },
+          "progressiveSizes" : [
+
+          ],
+          "typeHint" : "generic",
+          "isPersonal" : false,
+          "resource" : {
+            "accessHash" : -7688478311376064936,
+            "fileReference" : {
+              "count" : 21,
+              "pointer" : {
+                "pointerValue" : 12885224960
+              },
+              "bytes" : [
+                0,
+                103,
+                56,
+                9,
+                245,
+                190,
+                188,
+                158,
+                6,
+                204,
+                46,
+                174,
+                10,
+                14,
+                36,
+                189,
+                98,
+                248,
+                168,
+                0,
+                250
+              ]
+            },
+            "datacenterId" : 2,
+            "documentId" : 5406683434124859552,
+            "sizeSpec" : "m"
+          }
+        }
+      ],
+      "size" : 10027,
+      "videoThumbnails" : [
+
+      ],
+      "immediateThumbnailData" : {
+        "pointer" : {
+          "pointerValue" : 6042857088
+        },
+        "count" : 279
+      },
+      "fileId" : {
+        "namespace" : 5,
+        "id" : 5406683434124859552
+      }
+    }
+  },
+  "attributes" : [
+    {
+      "messageId" : {
+        "id" : 692,
+        "peerId" : {
+          "namespace" : {
+            "rawValue" : 2
+          },
+          "id" : {
+            "rawValue" : 1540269592
+          }
+        },
+        "namespace" : 0
+      },
+      "threadMessageId" : {
+        "peerId" : {
+          "id" : {
+            "rawValue" : 1540269592
+          },
+          "namespace" : {
+            "rawValue" : 2
+          }
+        },
+        "namespace" : 0,
+        "id" : 692
+      },
+      "isQuote" : false
+    },
+    {
+      "associatedMessageIds" : [
+
+      ],
+      "count" : 1
+    },
+    {
+      "date" : 1732896070,
+      "isHidden" : true
+    },
+    {
+      "entities" : [
+        {
+          "range" : {
+            "lowerBound" : 44,
+            "upperBound" : 46
+          },
+          "type" : {
+            "CustomEmoji" : {
+              "fileId" : 5375338737028841420
+            }
+          }
+        },
+        {
+          "range" : {
+            "upperBound" : 94,
+            "lowerBound" : 92
+          },
+          "type" : {
+            "CustomEmoji" : {
+              "fileId" : 5406683434124859552
+            }
+          }
+        },
+        {
+          "range" : {
+            "upperBound" : 122,
+            "lowerBound" : 120
+          },
+          "type" : {
+            "CustomEmoji" : {
+              "fileId" : 5231005931550030290
+            }
+          }
+        },
+        {
+          "type" : {
+            "CustomEmoji" : {
+              "fileId" : 5206607081334906820
+            }
+          },
+          "range" : {
+            "lowerBound" : 137,
+            "upperBound" : 139
+          }
+        },
+        {
+          "type" : "Mention",
+          "range" : {
+            "upperBound" : 164,
+            "lowerBound" : 151
+          }
+        },
+        {
+          "type" : {
+            "CustomEmoji" : {
+              "fileId" : 5456312597273923475
+            }
+          },
+          "range" : {
+            "lowerBound" : 164,
+            "upperBound" : 166
+          }
+        }
+      ]
+    },
+    {
+      "topPeers" : [
+
+      ],
+      "canViewList" : true,
+      "reactions" : [
+        {
+          "value" : {
+            "builtin" : "👍"
+          },
+          "chosenOrder" : 0,
+          "count" : 2
+        }
+      ],
+      "recentPeers" : [
+        {
+          "isLarge" : false,
+          "timestamp" : 1732901671,
+          "isMy" : false,
+          "isUnseen" : false,
+          "value" : {
+            "builtin" : "👍"
+          },
+          "peerId" : {
+            "namespace" : {
+              "rawValue" : 0
+            },
+            "id" : {
+              "rawValue" : 379350324
+            }
+          }
+        },
+        {
+          "timestamp" : 1732896070,
+          "value" : {
+            "builtin" : "👍"
+          },
+          "isUnseen" : false,
+          "isMy" : false,
+          "isLarge" : false,
+          "peerId" : {
+            "namespace" : {
+              "rawValue" : 0
+            },
+            "id" : {
+              "rawValue" : 1119265494
+            }
+          }
+        }
+      ],
+      "isTags" : false
+    },
+    {
+      "pts" : 2764
+    }
+  ],
+  "associatedMessageIds" : [
+    {
+      "peerId" : {
+        "namespace" : {
+          "rawValue" : 2
+        },
+        "id" : {
+          "rawValue" : 1540269592
+        }
+      },
+      "namespace" : 0,
+      "id" : 692
+    }
+  ],
+  "stableVersion" : 10,
+  "threadId" : 692,
+  "flags" : {
+    "rawValue" : 68
+  },
+  "timestamp" : 1732851272,
+  "tags" : {
+    "rawValue" : 2
+  },
+  "globalTags" : {
+    "rawValue" : 0
+  },
+  "stableId" : 163597,
+  "text" : "INSTAGRAM (BETA) De TestFligth v.360.0.0TF β🔄\nRe-uploaded\n\nHerramienta \nRegram v.1.0 Beta18🛍\nNo Hack Para usuario pago💸\nIGFormat v1.21✔️\n\nHecho por @chepesign_13🔨",
+  "media" : [
+    {
+      "previewRepresentations" : [
+        {
+          "progressiveSizes" : [
+
+          ],
+          "hasVideo" : false,
+          "isPersonal" : false,
+          "typeHint" : "generic",
+          "resource" : {
+            "documentId" : 5929067052068252664,
+            "fileReference" : {
+              "count" : 29,
+              "pointer" : {
+                "pointerValue" : 12885301184
+              },
+              "bytes" : [
+                2,
+                91,
+                206,
+                166,
+                24,
+                0,
+                0,
+                7,
+                133,
+                103,
+                74,
+                118,
+                43,
+                4,
+                110,
+                189,
+                127,
+                56,
+                156,
+                22,
+                133,
+                136,
+                146,
+                110,
+                135,
+                245,
+                24,
+                1,
+                98
+              ]
+            },
+            "sizeSpec" : "m",
+            "accessHash" : -7030754564370408959,
+            "datacenterId" : 4
+          },
+          "dimensions" : {
+            "height" : 320,
+            "width" : 320
+          }
+        }
+      ],
+      "mimeType" : "application/zip",
+      "resource" : {
+        "accessHash" : -7030754564370408959,
+        "datacenterId" : 4,
+        "size" : 174055407,
+        "fileId" : 5929067052068252664,
+        "fileReference" : {
+          "bytes" : [
+            2,
+            91,
+            206,
+            166,
+            24,
+            0,
+            0,
+            7,
+            133,
+            103,
+            74,
+            118,
+            43,
+            4,
+            110,
+            189,
+            127,
+            56,
+            156,
+            22,
+            133,
+            136,
+            146,
+            110,
+            135,
+            245,
+            24,
+            1,
+            98
+          ],
+          "count" : 29,
+          "pointer" : {
+            "pointerValue" : 12885307456
+          }
+        },
+        "fileName" : "Instagram Beta v360.0.0TF CHEPESign.ipa"
+      },
+      "immediateThumbnailData" : {
+        "count" : 263,
+        "pointer" : {
+          "pointerValue" : 6042856704
+        }
+      },
+      "videoThumbnails" : [
+
+      ],
+      "alternativeRepresentations" : [
+
+      ],
+      "size" : 174055407,
+      "fileId" : {
+        "id" : 5929067052068252664,
+        "namespace" : 5
+      },
+      "attributes" : [
+        {
+          "FileName" : {
+            "fileName" : "Instagram Beta v360.0.0TF CHEPESign.ipa"
+          }
+        },
+        "hintIsValidated"
+      ],
+      "peerIds" : [
+
+      ]
+    }
+  ],
+  "customTags" : [
+
+  ]
+}
